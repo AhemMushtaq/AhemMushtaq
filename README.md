@@ -10,7 +10,7 @@
   
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I’m currently learning everything about Frontend technologies 😅
 
 <br />
 
