@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <h1>Junior Software Engineer.</h1>
+  <h1></h1>
 </div>
   
-
+- Currently working as Junior Software Engineer @Wissen Infotech.
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React.
 - 📚 I’m currently learning everything about Frontend technologies 😅
 
