@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>I'm an Electronics Engineer. Aspiring Front-End Developer.</h1>
+  <h1>Junior Software Engineer.</h1>
 </div>
   
 
